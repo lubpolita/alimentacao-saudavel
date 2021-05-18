@@ -1,0 +1,18 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "site ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "luiza",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "google-spreadsheet": "^3.1.15",
+    "nodemailer": "^6.6.0"
+  }
+}
